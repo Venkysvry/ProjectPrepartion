@@ -1,0 +1,31 @@
+Data Strucutres using java:
+Data Structure:
+are different ways of organizing data on your computer ,that can be used efficienlty.
+example:selecting the black wood in the bundles of woods ...it will be difficult and time consuming to find if the woods are not arranged 
+properly.if the woods are arranged it will be easy to find the wood in less time..
+
+Algorithm:
+set of instructions to perform the task is known algorithm
+for example: if want to go to office ..we need to go through certain steps..like wakeup ,take the bus,travel,reach the 
+office ,walk to go to cabbin.
+
+why data structures and algorithms are important:
+by using the data structures we can organize the data and by using this data we can perform the task is nothing but algorithm.
+
+most companies use dsa ..because as modern applications deals with large amount of data..so inorder to maintain the data we need DSA 
+
+Types of data structures:
+there are 2 types of data strctures :
+primitive data type:which are defined in built in programming language
+integer
+float 
+char
+boolean
+
+Non-primitove data strcture:which are defined by a programmer.it is defined by using 1 or more primitve data types
+ 
+Linear:
+	 static:array
+	 dynamic:linkedlist ,queue,stack
+Non-linear:
+	tree,graph
